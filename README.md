@@ -4,7 +4,7 @@ Adds a search bar above the tag list on [caveduck.io](https://caveduck.io), maki
 
 ---
 
-![Demo of CaveDuck Tag Searcher](assets/demo.gif)
+![Demo of CaveDuck Tag Searcher](demo.gif)
 
 ## Features
 
