@@ -21,11 +21,12 @@ Since this extension is not published on official extension stores, you can inst
 
 ### Microsoft Edge (or any Chromium browser)
 
-1. Clone or download this repository.
-2. Open `edge://extensions` in the address bar.
-3. Enable **Developer mode**.
-4. Click **Load unpacked**.
-5. Select the folder containing this extension.
+1. Download the latest release.
+2. Unzip it somewhere.
+3. Go to chrome://extensions or edge://extensions.
+4. Enable Developer mode.
+5. Click Load unpacked.
+6. Select the unzipped folder.
 
 Once loaded, visit [caveduck.io](https://caveduck.io) and check the tags panel — a search bar should appear above the tag list!
 
